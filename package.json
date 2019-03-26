@@ -1,0 +1,20 @@
+{
+  "name": "MW_CRM",
+  "version": "1.0.0",
+  "description": "blank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitriy-volovik/MW_CRM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitriy-volovik/MW_CRM/issues"
+  },
+  "homepage": "https://github.com/Dmitriy-volovik/MW_CRM#readme"
+}
